@@ -1,0 +1,18 @@
+.speech { color:black;font-family:'Times New Roman';size: 14px;background-color: rgb(199, 49, 94);}
+.hover {background-color:mediumaquamarine;}
+.SLY { color:blue;font-family:'Times New Roman';font-size: 15px;background-color: blueviolet;}
+.Lord {color:brown;font-family: 'Times New Roman';font-size: 16px;background-color:mediumseagreen;}
+.FirstHunstman{color:cornflowerblue;font-family: 'Times New Roman';font-size: 17px;background-color: crimson;}
+.Players{color: darkgreen;font-family: 'Times New Roman';font-size: 18px;background-color: darkkhaki;}
+.Servant{color: darkmagenta;font-family: 'Times New Roman';font-size: 19px;background-color:darksalmon}
+.SecondHunstman{color: deeppink;font-family: 'Times New Roman';font-size: 20px;background-color: deepskyblue;}
+.Hostess{color: gold;font-family: 'Times New Roman';font-size: 21px;background-color: indigo;}
+
+table {border-style: dashed;border-color: mediumvioletred;margin-top: 10px;margin-bottom: 10px;}
+td, th {​​​​​​​​border: solid1px ;
+text-align: center;background: repeating-linear-gradient(
+45deg,
+#b39823,
+#b39823 10px,
+#b39823 10px,
+#b39823 20px);padding-left: 20px;padding-bottom: 20px;padding-right: 20px;padding-top: 20px;}​​​​​​​​
