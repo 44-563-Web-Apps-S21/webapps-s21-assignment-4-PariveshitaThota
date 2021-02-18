@@ -8,20 +8,31 @@
 .SecondHunstman{color: deeppink;font-family: 'Times New Roman';font-size: 20px;background-color: deepskyblue;}
 .Hostess{color: gold;font-family: 'Times New Roman';font-size: 21px;background-color: indigo;}
 
-table {border-style: dashed;border-color: mediumvioletred;margin-top: 10px;margin-bottom: 10px;}
-td, th {​​​​​​​​border: solid1px ;
-text-align: center;background: repeating-linear-gradient(
-45deg,
-#b39823,
-#b39823 10px,
-#b39823 10px,
-#b39823 20px);padding-left: 20px;padding-bottom: 20px;padding-right: 20px;padding-top: 20px;}​​​​​​​​
-
-.SLY:hover{color: yellowgreen;text-shadow: teal;}
 .Lord:hover{color:lightsalmon;text-shadow: maroon;}
 .FirstHunstman:hover{color:mediumpurple;text-shadow: mediumturquoise;}
 .Players:hover{color:olive;text-shadow: orange;}
 .Servant:hover{color:plum;text-shadow: saddlebrown;}
 .SecondHunstman:hover{color:slateblue;text-shadow: steelblue;}
 .Hostess:hover{color:turquoise;text-shadow: unset;}
+.SLY:hover{color:yellow;text-shadow: tomato;}
+
+
+table {border-style: dashed;border-color: mediumvioletred;margin-top: 10px;margin-bottom: 10px;}
+
+td, th {​​​​​​​​border: solid1px;
+text-align: center;background: repeating-linear-gradient(
+45deg,
+#b39823,
+#b39823 10px,
+#b39823 10px,
+#b39823 20px);padding-left: 20px;padding-bottom: 20px;padding-right: 20px;padding-top: 20px;}
+
+
+
+
+
+
+
+
+
 
