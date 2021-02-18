@@ -16,3 +16,12 @@ text-align: center;background: repeating-linear-gradient(
 #b39823 10px,
 #b39823 10px,
 #b39823 20px);padding-left: 20px;padding-bottom: 20px;padding-right: 20px;padding-top: 20px;}​​​​​​​​
+
+.SLY:hover{color: yellowgreen;text-shadow: teal;}
+.Lord:hover{color:lightsalmon;text-shadow: maroon;}
+.FirstHunstman:hover{color:mediumpurple;text-shadow: mediumturquoise;}
+.Players:hover{color:olive;text-shadow: orange;}
+.Servant:hover{color:plum;text-shadow: saddlebrown;}
+.SecondHunstman:hover{color:slateblue;text-shadow: steelblue;}
+.Hostess:hover{color:turquoise;text-shadow: unset;}
+
