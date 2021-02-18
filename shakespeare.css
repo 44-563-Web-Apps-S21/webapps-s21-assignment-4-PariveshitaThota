@@ -26,7 +26,24 @@ text-align: center;background: repeating-linear-gradient(
 #b39823 10px,
 #b39823 10px,
 #b39823 20px);padding-left: 20px;padding-bottom: 20px;padding-right: 20px;padding-top: 20px;}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+  }
 
+  li{
+    float:left;
+    border:5px solid rgb(0, 17, 255);
+  }
+
+  li a{
+    display: block;
+    padding: 11px;
+    background-color: rgb(238, 173, 130);
+  }
+  
 
 
 
